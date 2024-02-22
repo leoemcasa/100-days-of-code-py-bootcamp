@@ -1,3 +1,10 @@
+# choose random number
+# function to set difficulty
+# get uer guess
+# check uer guess (function)
+# trace turns and decrement 1 if wring
+# repat while wrong
+
 from random import randint
 from guess_num_sol_art import logo
 

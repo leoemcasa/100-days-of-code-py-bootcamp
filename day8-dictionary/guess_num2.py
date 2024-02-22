@@ -8,9 +8,6 @@ guess = int(input("Guess a number between 1 and 100: "))
 
 print(logo)
 
-
-
-
 def check_guess(guess, number):
     """Check guess"""
     if number < guess:
